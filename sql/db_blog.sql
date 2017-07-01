@@ -82,5 +82,3 @@ FROM db_blog.publish;
 SELECT *
 FROM db_blog.comment;
 
-SELECT *
-FROM db_blog.blog_comment;
